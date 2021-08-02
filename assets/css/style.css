@@ -494,9 +494,9 @@ header ul li a{
     }
     .project-para-1 {
         width: 45%;
-     font-size: 20px;
-      margin-left: 123px;
-     margin-top: 10px;
+        font-size: 20px;
+        margin-left: 123px;
+        margin-top: 10px;
     }
     .testimonial-para{
          width: 38%;
@@ -507,10 +507,6 @@ header ul li a{
     .contact-section .contact-desc{
         width: 61%;
     }
-    /* .text-btn{
-        float: none;
-        text-align: right;
-    } */
     .packages-section .card{
         padding: 20px 25px;
     }
@@ -549,9 +545,9 @@ header ul li a{
     }
     .about-section .text .second-content{
         top: 76%;
-       width: 100%;
-       right:unset;
-      }
+        width: 100%;
+        right:unset;
+    }
     .team-section .box{
         bottom: 0;
         height: auto;
@@ -569,41 +565,41 @@ header ul li a{
         width: 35%;
         right: 0%;
         bottom: 60px;
-}
-.card-section .header .heading{
-    padding: 0px;
-}
-.packages-section .header .desc{
-    width: 100%;
-    margin-left: 0px;
-}
-.contact-section .contact-desc{
-    width: 98%;
+    }
+    .card-section .header .heading{
+        padding: 0px;
+    }
+    .packages-section .header .desc{
+        width: 100%;
+        margin-left: 0px;
+    }
+    .contact-section .contact-desc{
+        width: 98%;
 
-}
-.packages-section .package-title{
-    margin-top: 20px;
-}
-.packages-section .middle-card p {
-    width: 83%;
-}
-.project-para-1 {
-    width: 100%;
-    margin-left: 0px;
-}
-.project-heading{
-    margin-left: 0px;
-}
-.testimonial-para{
-    width: 100%;
-    margin-left: 0px;
-}
-header .cont{
-    justify-content: space-between;
-}
-.team-section .team-image{
-    width: 100%;
-}
+    }
+    .packages-section .package-title{
+        margin-top: 20px;
+    }
+    .packages-section .middle-card p {
+        width: 83%;
+    }
+    .project-para-1 {
+        width: 100%;
+        margin-left: 0px;
+    }
+    .project-heading{
+        margin-left: 0px;
+    }
+    .testimonial-para{
+        width: 100%;
+        margin-left: 0px;
+    }
+    header .cont{
+        justify-content: space-between;
+    }
+    .team-section .team-image{
+        width: 100%;
+    }
 }
 @media screen and (max-width: 755px){
     .main-screen .main-screen-text{
@@ -623,7 +619,7 @@ header .cont{
 }   
 @media screen and (max-width: 565px){
     .main-screen .text-area h1 {
-    font-size: 32px;
+        font-size: 32px;
     }
     .main-screen .text-area h3{
         margin-left: 54px;
@@ -632,7 +628,7 @@ header .cont{
         top: 100px;
     }
     .card-section .card-1 {
-     margin-top: 250px;
+        margin-top: 250px;
     }
 }
 @media screen and (max-width: 486px){
@@ -648,7 +644,8 @@ header .cont{
         margin-top: 320px;
     }
     .about-section .main-img img{
-        left: -13px;
+        left: 0;
+        width: 100%;
     }
 }
 @media screen and (max-width: 430px){
@@ -659,54 +656,51 @@ header .cont{
         margin-left: 5px;
     }
     .main-screen .main-screen-text {
-
-    font-size: 14px;
-    width: 30%;
-}
-.main-screen .text-area h3{
-    margin-left: 10px;
-}
-.main-screen .head-scroll {
-    bottom: 5px;
-}
-.card-section .header .bg-img{
-    height: 425px;
-}
-.card-section .category{
-    width: 95%;
-}
-.project-box{
-    width: 199px;
-    padding: 56px;
-    height: 168px;
-}
-.testimonials-box{
-    width: 199px;
-    padding: 56px;
-    height: 168px;
+        font-size: 14px;
+        width: 30%;
+    }
+    .main-screen .text-area h3{
+        margin-left: 10px;
+    }
+    .main-screen .head-scroll {
+        bottom: 5px;
+    }
+    .card-section .header .bg-img{
+        height: 425px;
+    }
+    .card-section .category{
+        width: 95%;
+    }
+    .project-box{
+        width: 199px;
+        padding: 56px;
+        height: 168px;
+    }
+    .testimonials-box{
+        width: 199px;
+        padding: 56px;
+        height: 168px;
+    }
 }
 @media screen and (max-width: 414px){
-  
-
-.main-screen .main-screen-text {
-    
-    width: 34%;
-    margin-bottom: 49px;
-}
+    .main-screen .main-screen-text {
+        width: 34%;
+        margin-bottom: 49px;
+    }
 }
 @media screen and (max-width: 375px){
     .about-section .main-img img{
         width: 100%;
     }
     .about-section .text .first-para {
-    width: 100%;
+        width: 100%;
     }
     .card-section .header .bg-img {
-     right: 33px;
-     height: 341px;
+        right: 33px;
+        height: 341px;
     }
     .card-section .card-1 {
-     margin-top: 93px;
+        margin-top: 93px;
     }
     .main-screen .main-screen-text {
         font-size: 12px;
@@ -721,4 +715,3 @@ header .cont{
         margin-bottom: 43px;
     }
 }
-
